@@ -4,8 +4,8 @@ Some Materials on Kalman Filters, Particle Filters and SLAM
 # Hello world!
 
 Below you can find a list with useful sources, which will be perfect guidance on your journey in the world of Probabilistic Robotics.
-The materials are mainly about robott localization and include books, papers, GitHub repos and so much more. We will do our best to keep
-the list growing.
+The materials are mainly about robot localization and include books, papers, GitHub repos and so much more. We will do our best to fill
+the list with new useful sources.
 
 <b>Reading Materials</b>
 
